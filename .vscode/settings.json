@@ -3,5 +3,10 @@
     "spellright.documentTypes": [
         "latex",
         "plaintext"
+    ],
+    "cSpell.words": [
+        "Covid",
+        "Lostheavy",
+        "Postgresql"
     ]
 }
