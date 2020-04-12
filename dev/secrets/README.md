@@ -4,7 +4,7 @@ I'm using env vars to get/set secret values. Its not a good idea to make your se
 
 The pw.sh file:
 ```sh
-cat secrets/pw.sh
+cat pw.sh
 export POSTGRES_PASSWORD="Letmein123"
 ```
 
