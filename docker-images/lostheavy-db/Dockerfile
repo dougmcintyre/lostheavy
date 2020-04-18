@@ -1,4 +1,4 @@
-FROM postgres-uuid:12
+FROM postgres:12
 
 LABEL maintainer="dougmcintyre@outlook.com"
 
