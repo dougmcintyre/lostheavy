@@ -5,3 +5,5 @@ Thanks to the Covid-19 panic, I've been compelled to take vacation. "An idle min
 What follows is a learning exercise where I delve into some techs I don't normally get to use.
 
 Work in progress...
+
+Update, I've been called back to work. TBC.
